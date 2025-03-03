@@ -1,4 +1,4 @@
-# MovieReelAI Bundle - FastPass Bundle + Bonuses
+# MovieReelAI Bundle UP - FastPass Bundle + Bonuses
 <h2 class="wp-block-heading" data-block-type="core"><span id="Introduction"><strong>Introduction</strong></span></h2>
 <p data-block-type="core">Creating professional-quality videos has always been a challenge. It takes expensive equipment, editing skills, and hours of effort.</p>
 <p data-block-type="core">If you’re a business owner, content creator, or marketer, you know how hard it is to produce engaging videos without spending a fortune.</p>
